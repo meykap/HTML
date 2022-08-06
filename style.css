@@ -192,6 +192,7 @@
 
 }
 
+
 input[type=text], select, textarea {
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
@@ -224,7 +225,6 @@ input[type=submit]:hover {
   background-color: #f4f6fc;
   padding: 70px;
 }
-
 
 
 
